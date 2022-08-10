@@ -1,0 +1,36 @@
+body {
+    background-color: #deeaf6;
+    padding: 50px;
+    padding-right: 120px;
+    padding-left: 120px;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    color: red;
+    font-weight: bolder;
+    margin-left: 3ex;
+}
+
+span {
+    color:#0070c0;
+}
+#yanecode{
+    display:block ;
+    margin:auto;
+    width: 15rem;
+}
+#yarobo{
+    color:green;
+}
+
+#yacade{
+    color:red;
+}
+#images2{
+    display:auto;
+    margin: auto;
+    width: 15rem;
+}
